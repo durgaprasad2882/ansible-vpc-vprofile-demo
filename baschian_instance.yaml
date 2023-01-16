@@ -9,7 +9,7 @@
       include_vars: vars/bastian_Setup
 
     - name: Import VPC Setup variable
-      include_vars: vars/output_vars
+      include_vars: vars/ouptput_vars
 
 
     - name: Create vprofile ec2 key
