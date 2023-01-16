@@ -43,7 +43,7 @@
         register: BastianSG_out
 
 
-    - Creating Bastian Host
+    - name: Creating Bastian Host
       ec2:
         key_name: vprofile-key
         region: "{{region}}"
