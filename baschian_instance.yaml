@@ -40,7 +40,7 @@
             from_port: 22
             to_port: 22
             cidr_ip: "{{MYIP}}"
-        register: BastianSG_out
+      register: BastianSG_out
 
 
     - name: Creating Bastian Host
