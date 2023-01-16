@@ -63,16 +63,3 @@
         group_id: "{{BastianSG_out.group_id}}"
         vpc_subnet_id: "{{pubsub1id}}"
       register: bastianHost_out
-
-
-
-
-
-
-
-
-
-
-
-
-
