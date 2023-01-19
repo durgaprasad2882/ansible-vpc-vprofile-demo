@@ -22,6 +22,10 @@ zone3: us-east-2c
 
 state: present
 
+# Bastian vars
+bastian_ami: ami-0a606d8395a538502
+MYIP: 203.193.145.186/32
+
 
 
 
