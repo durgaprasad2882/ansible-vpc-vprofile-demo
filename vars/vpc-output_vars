@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+region: us-east-2
+>>>>>>> 7e85819817c2e84582de373e4059c55673d9b277
 vpcid: vpc-06ed6937761a6889f
 pubsub1id: subnet-06c210f66e7d11083
 pubsub2id: subnet-0dc7329069e4f6a22
